@@ -22,7 +22,7 @@ Alzheimer's disease is a progressive illness causing cognitive decline. Early de
 ## Dataset
 
 The dataset used is **AugmentedAlzheimerDataset** from Kaggle. You can access it via the following link: [AugmentedAlzheimerDataset](
-https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images). 
+(https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset)). 
 
 The data consists of MRI images. The data has four classes of images both in training as well as a testing set:
 
@@ -31,6 +31,8 @@ Moderate Demented
 Non Demented
 Very Mild Demented
 
+The data contains two folders. One of them is augmented ones and the other one is originals.
+Originals could be used for validation or test dataset…
 
 
 
