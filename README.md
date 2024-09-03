@@ -12,7 +12,6 @@ Alzheimer's disease is a progressive illness causing cognitive decline. Early de
 - **EfficientNetB2:** Pre-trained model optimized for efficiency.
 - **ResNet50:** Pre-trained model known for robust performance.
 
-The models were trained on a Kaggle dataset with 6400 images.
 
 ## Performance
 
@@ -23,7 +22,16 @@ The models were trained on a Kaggle dataset with 6400 images.
 ## Dataset
 
 The dataset used is **AugmentedAlzheimerDataset** from Kaggle. You can access it via the following link: [AugmentedAlzheimerDataset](
-https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images). It is divided into four categories reflecting different stages of Alzheimer's disease.
+https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images). 
+
+The data consists of MRI images. The data has four classes of images both in training as well as a testing set:
+
+Mild Demented
+Moderate Demented
+Non Demented
+Very Mild Demented
+
+
 
 
    
