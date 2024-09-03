@@ -12,13 +12,6 @@ Alzheimer's disease is a progressive illness causing cognitive decline. Early de
 - **EfficientNetB2:** Pre-trained model optimized for efficiency.
 - **ResNet50:** Pre-trained model known for robust performance.
 
-
-## Performance
-
-- **ResNet50:** 98% accuracy
-- **EfficientNetB2:** 99% accuracy
-- **Custom CNN:** 91% accuracy
-
 ## Dataset
 
 The dataset used is **AugmentedAlzheimerDataset** from Kaggle. You can access it via the following link: [AugmentedAlzheimerDataset](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset).
